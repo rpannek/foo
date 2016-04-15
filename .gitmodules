@@ -1,0 +1,3 @@
+[submodule "qmldevinfo"]
+	path = qmldevinfo
+	url = git@github.com:Pelagicore/qmldevinfo.git
