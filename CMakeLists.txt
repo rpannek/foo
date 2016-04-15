@@ -13,4 +13,4 @@ set(PROJECT_VERSION ${PROJECT_MAJOR_VERSION}.${PROJECT_MINOR_VERSION}.${PROJECT_
 include(GNUInstallDirs)
 
 find_package(PkgConfig REQUIRED)
-add_subdirectory(qmldev)
+add_subdirectory(qmldevinfo)
